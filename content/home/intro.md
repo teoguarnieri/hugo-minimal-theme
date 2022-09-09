@@ -12,11 +12,12 @@ author: admin
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  #background-color: white
+  background:
     # Apply a background color, gradient, or image.
     #   Uncomment (by removing `#`) an option to apply it.
     #   Choose a light or dark text color by setting `text_color_light`.
     #   Any HTML color name or Hex value is valid.
+    color: black
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
     image: hello.jpg # Name of image in `static/media/`.
@@ -28,4 +29,5 @@ design:
   css_class: d-flex fullscreen align-items-center
 ---
 
-<p> Hi, there! I'm **Teo**, a Technical Writer at Forsta. </p>
+👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
