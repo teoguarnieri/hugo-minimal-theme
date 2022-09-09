@@ -6,16 +6,16 @@ title: Teo Guarnieri
 superuser: true
 
 # Role/position
-role: ''
+role: 'Technical Writer'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
-# Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+ Organizations/Affiliations
+organizations:
+- name: Forsta
+  url: www.forsta.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -28,30 +28,30 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:teoguarnieri@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/teoguarnieri/
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/teoguarnieri/
-  - icon: weibo
-    icon_pack: fab
-    link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
-  - icon: tiktok
-    icon_pack: fab
-    link: https://www.tiktok.com/@spacex.to.mars
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0001-5547-3196
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+  #- icon: twitter
+ #   icon_pack: fab
+ #   link: https://twitter.com/teoguarnieri/
+#  - icon: instagram
+ #   icon_pack: fab
+#    link: https://www.instagram.com/teoguarnieri/
+ # - icon: weibo
+#    icon_pack: fab
+ #   link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
+#  - icon: tiktok
+ #   icon_pack: fab
+ #   link: https://www.tiktok.com/@spacex.to.mars
+ # - icon: orcid
+ #   icon_pack: fab
+ #   link: https://orcid.org/0000-0001-5547-3196
+ # - icon: github
+ #   icon_pack: fab
+ #   link: https://github.com/gcushen
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
-  - icon: file-pdf
-    icon_pack: fas
-    label: View Resume
-    link: uploads/resume.pdf
+ # - icon: file-pdf
+ #   icon_pack: fas
+ #   label: View Resume
+  #  link: uploads/resume.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
