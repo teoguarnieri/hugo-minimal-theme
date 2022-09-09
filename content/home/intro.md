@@ -29,5 +29,5 @@ design:
   css_class: d-flex fullscreen align-items-center
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+👋 Hi, there! I'm **Teo**, a Technical Writer at Forsta.
+{style="font-size: 1.2rem; background: #FFFFFF; background: linear-gradient(to right, #FFFFFF 0%, #FFFFFF 30%, #FFFFFF 60%, #FFFFFF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
