@@ -12,7 +12,7 @@ author: admin
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
- # background-color: white
+  background-color: white
     # Apply a background color, gradient, or image.
     #   Uncomment (by removing `#`) an option to apply it.
     #   Choose a light or dark text color by setting `text_color_light`.
@@ -28,4 +28,4 @@ design:
   css_class: d-flex fullscreen align-items-center
 ---
 
-👋 Hi, there! I'm **Teo**, a Technical Writer at Forsta.
+Hi, there! I'm **Teo**, a Technical Writer at Forsta.
