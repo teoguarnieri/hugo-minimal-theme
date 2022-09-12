@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 
-name_pronunciation: Teo Guarnieri
+title: Teo Guarnieri
+name_pronunciation: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Technical Writer'
 
 # Status emoji
 status:
