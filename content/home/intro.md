@@ -30,4 +30,4 @@ design:
 ---
 
 👋 Hi, there! I'm **Teo**, a Technical Writer at Forsta.
-{style="font-size: 1.2rem; background: #FFFFFF; background: linear-gradient(to right, #FFFFFF 0%, #FFFFFF 30%, #FFFFFF 60%, #FFFFFF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.2rem; background: #FFFFFF; background: linear-gradient(to right, #FFFFFF 100%, #FFFFFF 100%, #FFFFFF 100%, #FFFFFF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
