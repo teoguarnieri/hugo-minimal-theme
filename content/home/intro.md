@@ -29,4 +29,4 @@ design:
   css_class: d-flex fullscreen align-items-center
 ---
 
-<p style="color: white;">Hi, there! I'm **Teo**, a Technical Writer at Forsta.</p>
+<p style="color: white;">I'm Teo, a Technical Writer at Forsta.</p>
